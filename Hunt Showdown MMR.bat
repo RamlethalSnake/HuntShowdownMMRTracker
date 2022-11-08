@@ -5,6 +5,7 @@ cls
 @Echo off
 
 ::============Git-Pull============::
+Echo Asda
 
 ::============Cache Variables============::
 if not exist MMRCache.txt (
